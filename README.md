@@ -90,5 +90,5 @@ It helps business owners and analysts identify **best-selling products**, **peak
 👩‍💻 Author
 
 **Name:** Laxmi Pol
-**Email:** *lakshmipol015@gmail.com*
-**LinkedIn:** *https://www.linkedin.com/in/laxmi-pol-1bb211360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*
+**Email:** lakshmipol015@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/laxmi-pol-1bb211360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
